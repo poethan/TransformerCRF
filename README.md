@@ -8,7 +8,8 @@ Conference program: https://healtac2022.github.io/programmes/
 Our poster and presentation are shared in the files under this repository, alternatively this link also fine (folder address: https://drive.google.com/drive/folders/1ooyUP91Z5N-LPRsjDhOPZYrp5WpDunLw?usp=sharing).
 
 
-# News: our another poster presentation from HealTAC2022 is also uploaded on this github page 'Diagnosis Certainty and Progression: A Natural Language Processing Approach to Enable Characterisation of the Evolution of Diagnoses in Clinical Notes'
+# News: our another poster presentation from HealTAC2022 is also uploaded on this github page
+'Diagnosis Certainty and Progression: A Natural Language Processing Approach to Enable Characterisation of the Evolution of Diagnoses in Clinical Notes'
 https://github.com/poethan/TransformerCRF/blob/main/Negation_Temporal_Healtac_poster14.pdf
 
 
@@ -28,3 +29,8 @@ https://github.com/poethan/TransformerCRF/blob/main/Negation_Temporal_Healtac_po
 |---|
 
 - We thank to Yuping Wu, Viktor Schlegel for helping on the development of our TransformerCRF model, debugging and discussion.
+
+| Contact, welcome to reach out |
+|---|
+
+- firstname.lastname@manchester.ac.uk (Firstname: Lifeng; Lastname: Han)
