@@ -13,6 +13,17 @@ Our poster and presentation are shared in the files under this repository, alter
 https://github.com/poethan/TransformerCRF/blob/main/Negation_Temporal_Healtac_poster14.pdf
 
 
+| Experimental Results from Pilot Study using n2c2-2018 data|
+|---|
+
+**without using pre-trained embedding**
+- 
+
+**using pre-trained embedding**
+- 
+
+
+
 | Citation Assistant |
 |---|
 
