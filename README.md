@@ -44,4 +44,4 @@ https://github.com/poethan/TransformerCRF/blob/main/Negation_Temporal_Healtac_po
 | Contact, welcome to reach out |
 |---|
 
-- firstname.lastname@manchester.ac.uk (Firstname: Lifeng; Lastname: Han)
+- firstname.lastname@manchester.ac.uk (Firstname: Lifeng; Lastname: Han) (Firstname: Yuping; Lastname: Wu)
