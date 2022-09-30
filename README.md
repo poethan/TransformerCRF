@@ -10,7 +10,7 @@ Our poster and presentation are shared in the files under this repository, alter
 
 # News: our another poster presentation from HealTAC2022 is also uploaded on this github page
 'Diagnosis Certainty and Progression: A Natural Language Processing Approach to Enable Characterisation of the Evolution of Diagnoses in Clinical Notes'
-https://github.com/poethan/TransformerCRF/blob/main/Negation_Temporal_Healtac_poster14.pdf
+https://github.com/poethan/TransformerCRF/blob/main/HealTAC22_poster14_centainty_progression.pdf
 
 
 | Experimental Results from Pilot Study using n2c2-2018 data|
