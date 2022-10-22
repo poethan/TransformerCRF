@@ -1,7 +1,7 @@
 # TransformerCRF
 A Transformer-based Machine Learning Framework using Conditional Random Fields as Decoder for Clinical Text Mining
 
-Place-holder for our poster presentation in HealTAC2022 conference: code and data sharing
+Place-holder for our project/poster presentation in HealTAC2022 conference and follow-up work: code and data sharing
 
 Conference program: https://healtac2022.github.io/programmes/
 
@@ -10,9 +10,14 @@ https://github.com/poethan/TransformerCRF/blob/main/Healtac22_poster_transformer
 alternatively this link also fine (folder address: https://drive.google.com/drive/folders/1ooyUP91Z5N-LPRsjDhOPZYrp5WpDunLw?usp=sharing).
 
 
-# News: our another poster presentation from HealTAC2022 is also uploaded on this github page
+# News: our another project/poster presentation from HealTAC2022 is also uploaded on this github page
 'Diagnosis Certainty and Progression: A Natural Language Processing Approach to Enable Characterisation of the Evolution of Diagnoses in Clinical Notes'
 https://github.com/poethan/TransformerCRF/blob/main/HealTAC22_poster14_centainty_progression.pdf
+
+
+| Full Paper Coming |
+|---|
+"On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?" Yuping Wu, Lifeng Han, Valerio Antonini, and Goran Nenadic. ArXiv pre-print Link. 
 
 
 | Experimental Results from Pilot Study using n2c2-2018 data|
