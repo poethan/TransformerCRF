@@ -38,6 +38,9 @@ https://github.com/poethan/TransformerCRF/blob/main/HealTAC22_poster14_centainty
 - 
 
 **Plain**
+
+- Yuping Wu, Lifeng Han, Valerio Antonini, and Goran Nenadic. 2022. "On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?". Pre-print.
+
 - Lifeng Han, Valerio Antonini, Ghada Alfattni, Alfredo Madrid, Warren Del-Pinto, Judith Andrew, William G. Dixon, Meghna Jani, Ana María Aldana, Robyn Hamilton, Karim Webb, Goran Nenadic. 2022. A Transformer-based Machine Learning Framework using Conditional Random Fields as Decoder for Clinical Text Mining. Posters in HealTAC 2022: the 5th Healthcare Text Analytics Conference. June 15-16th. Virtual and Local Hubs in UK.
 
 - Alfredo Madrid, Caitlin Bullin, Lifeng Han, Judith Andrew, Warren Del-Pinto, Ghada Alfattni, Oswaldo S. Pabón, Ernestina M. Ruiz, Luis Rodríguez, Ana María Aldana, Robyn Hamilton, Karim Webb, Meghna Jani, Goran Nenadic, William G. Dixon. 2022. Diagnosis Certainty and Progression: A Natural Language Processing Approach to Enable Characterisation of the Evolution of Diagnoses in Clinical Notes. Posters in HealTAC 2022: the 5th Healthcare Text Analytics Conference. June 15-16th. Virtual and Local Hubs in UK.
