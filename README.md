@@ -25,7 +25,7 @@ From this repository:
 https://github.com/poethan/TransformerCRF/blob/main/TransformerCRF_dev-main.zip
 
 
-| Experimental Trials from Pilot Study using n2c2-2018 data in data constrained fine-tuning/learning|
+| Experimental Trials from Pilot Study using n2c2-2018 challenge set in data-constrained fine-tuning/learning|
 |---|
 
 **TransformerCRF**
