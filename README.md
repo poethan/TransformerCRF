@@ -25,14 +25,17 @@ From this repository:
 https://github.com/poethan/TransformerCRF/blob/main/TransformerCRF_dev-main.zip
 
 
-| Experimental Results from Pilot Study using n2c2-2018 data|
+| Experimental Trials from Pilot Study using n2c2-2018 data in data constrained fine-tuning/learning|
 |---|
 
-**without using pre-trained embedding**
-- 
+**TransformerCRF**
+- learning from scratch using 303 EHR letters from n2c2-2018
 
-**using pre-trained embedding**
-- 
+**BioformerApt**
+- Adaptation layer on top of Bioformer testing its performance on n2c2-2018 test set of 200 EHR letters
+
+**BioformerApt, ClinicalBERT-CRF, BioformerCRF**
+- Continuous learning useing data constrained setting of 303 EHR letters
 
 
 
