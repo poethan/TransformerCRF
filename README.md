@@ -19,6 +19,11 @@ https://github.com/poethan/TransformerCRF/blob/main/HealTAC22_poster14_centainty
 |---|
 "On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?" Yuping Wu, Lifeng Han, Valerio Antonini, and Goran Nenadic. ArXiv pre-print Link. (https://github.com/poethan/TransformerCRF/blob/main/view_TransformerCRF.pdf)
 
+| Direct code download |
+|---|
+From this repository: 
+https://github.com/poethan/TransformerCRF/blob/main/TransformerCRF_dev-main.zip
+
 
 | Experimental Results from Pilot Study using n2c2-2018 data|
 |---|
