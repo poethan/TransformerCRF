@@ -43,7 +43,25 @@ https://github.com/poethan/TransformerCRF/blob/main/TransformerCRF_dev-main.zip
 |---|
 
 **Bibtex**
-- 
+
+@misc{https://doi.org/10.48550/arxiv.2210.12770,
+  doi = {10.48550/ARXIV.2210.12770},
+  
+  url = {https://arxiv.org/abs/2210.12770},
+  
+  author = {Wu, Yuping and Han, Lifeng and Antonini, Valerio and Nenadic, Goran},
+  
+  keywords = {Computation and Language (cs.CL), Artificial Intelligence (cs.AI), Machine Learning (cs.LG), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 International}
+}
+
 
 **Plain**
 
