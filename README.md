@@ -7,7 +7,7 @@ Conference program: https://healtac2022.github.io/programmes/
 
 Our poster and presentation are shared in the files under this repository
 https://github.com/poethan/TransformerCRF/blob/main/Healtac22_poster_transformerCRF.pdf  
-alternatively this link also fine (folder address: https://drive.google.com/drive/folders/1ooyUP91Z5N-LPRsjDhOPZYrp5WpDunLw?usp=sharing).
+alternatively this link also fine [folder address] (https://drive.google.com/drive/folders/1ooyUP91Z5N-LPRsjDhOPZYrp5WpDunLw?usp=sharing).
 
 
 # News: our another project/poster presentation from HealTAC2022 is also uploaded on this github page
