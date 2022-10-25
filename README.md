@@ -12,12 +12,12 @@ alternatively this link also fine (folder address: https://drive.google.com/driv
 
 # News: our another project/poster presentation from HealTAC2022 is also uploaded on this github page
 'Diagnosis Certainty and Progression: A Natural Language Processing Approach to Enable Characterisation of the Evolution of Diagnoses in Clinical Notes'
-https://github.com/poethan/TransformerCRF/blob/main/HealTAC22_poster14_centainty_progression.pdf
+[poster](https://github.com/poethan/TransformerCRF/blob/main/HealTAC22_poster14_centainty_progression.pdf)
 
 
 | Full Paper Coming |
 |---|
-"On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?" Yuping Wu, Lifeng Han, Valerio Antonini, and Goran Nenadic. ArXiv pre-print [Link](http://arxiv.org/abs/2210.12770) . (https://github.com/poethan/TransformerCRF/blob/main/view_TransformerCRF.pdf)
+"On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?" Yuping Wu, Lifeng Han, Valerio Antonini, and Goran Nenadic. ArXiv pre-print http://arxiv.org/abs/2210.12770 [Link](http://arxiv.org/abs/2210.12770). (https://github.com/poethan/TransformerCRF/blob/main/view_TransformerCRF.pdf)
 
 | Direct code download |
 |---|
