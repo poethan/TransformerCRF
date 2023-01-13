@@ -75,7 +75,7 @@ https://github.com/poethan/TransformerCRF/blob/main/TransformerCRF_dev-main.zip
 | Acknowledgement |
 |---|
 
-- We thank to Viktor Schlegel for helping on debugging and Hao Li for discussion during the development stage.
+- We thank to Viktor Schlegel for helping on debugging and Hao Li for discussion during the development stage. We are grateful to *Manchester Open Research Fund* (OR) for supporting this open source project. 
 
 | Contact, welcome to reach out |
 |---|
