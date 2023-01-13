@@ -15,6 +15,7 @@ alternatively this link also fine [folder-address](https://drive.google.com/driv
 [poster](https://github.com/poethan/TransformerCRF/blob/main/HealTAC22_poster14_centainty_progression.pdf)
 
 
+
 | Full Paper Coming |
 |---|
 "On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?" Yuping Wu, Lifeng Han, Valerio Antonini, and Goran Nenadic. ArXiv pre-print https://doi.org/10.48550/arXiv.2210.12770 [Link](http://arxiv.org/abs/2210.12770). (https://github.com/poethan/TransformerCRF/blob/main/view_TransformerCRF.pdf)
@@ -65,7 +66,7 @@ https://github.com/poethan/TransformerCRF/blob/main/TransformerCRF_dev-main.zip
 
 **Plain**
 
-- Yuping Wu, Lifeng Han, Valerio Antonini, and Goran Nenadic. 2022. "On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?". Pre-print.
+- Yuping Wu, Lifeng Han, Valerio Antonini, and Goran Nenadic. 2022. "On Cross-Domain Pre-Trained Language Models for Clinical Text Mining: How Do They Perform on Data-Constrained Fine-Tuning?". Pre-print. arXiv:2210.12770 [cs.CL] https://doi.org/10.48550/arXiv.2210.12770 
 
 - Lifeng Han, Valerio Antonini, Ghada Alfattni, Alfredo Madrid, Warren Del-Pinto, Judith Andrew, William G. Dixon, Meghna Jani, Ana María Aldana, Robyn Hamilton, Karim Webb, Goran Nenadic. 2022. A Transformer-based Machine Learning Framework using Conditional Random Fields as Decoder for Clinical Text Mining. Posters in HealTAC 2022: the 5th Healthcare Text Analytics Conference. June 15-16th. Virtual and Local Hubs in UK.
 
