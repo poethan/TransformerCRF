@@ -1,4 +1,7 @@
 # TransformerCRF
+
+<img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-Polish.png" width="100">
+
 A Transformer-based Machine Learning Framework using Conditional Random Fields as Decoder for Clinical Text Mining
 
 Place-holder for our project/poster presentation in HealTAC2022 conference and follow-up work: code and data sharing
