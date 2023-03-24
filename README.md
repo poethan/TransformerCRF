@@ -1,4 +1,4 @@
-# TransformerCRF
+# TransformerCRF (from UoM, MCR)
 
 <img src="https://github.com/poethan/TransformerCRF/blob/main/TransformerCRF-UoM-logo-.png" width="100">
 
