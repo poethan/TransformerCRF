@@ -1,6 +1,6 @@
 # TransformerCRF
 
-<img src="https://github.com/aaronlifenghan/AlphaMWE/blob/main/logo-alphaMWE-Polish.png" width="100">
+<img src="https://github.com/poethan/TransformerCRF/blob/main/TransformerCRF-UoM-logo-.png" width="100">
 
 A Transformer-based Machine Learning Framework using Conditional Random Fields as Decoder for Clinical Text Mining
 
