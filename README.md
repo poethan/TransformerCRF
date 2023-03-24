@@ -13,7 +13,9 @@ https://github.com/poethan/TransformerCRF/blob/main/Healtac22_poster_transformer
 alternatively this link also fine [folder-address](https://drive.google.com/drive/folders/1ooyUP91Z5N-LPRsjDhOPZYrp5WpDunLw?usp=sharing).
 
 
-# News: our another project/poster presentation from HealTAC2022 is also uploaded on this github page
+# News: our logo is displayed
+
+On clinical Text Mining: another project/poster presentation from HealTAC2022 is also uploaded on this github page
 'Diagnosis Certainty and Progression: A Natural Language Processing Approach to Enable Characterisation of the Evolution of Diagnoses in Clinical Notes'
 [poster](https://github.com/poethan/TransformerCRF/blob/main/HealTAC22_poster14_centainty_progression.pdf)
 
