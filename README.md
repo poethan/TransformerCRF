@@ -88,6 +88,9 @@ https://github.com/poethan/TransformerCRF/blob/main/TransformerCRF_dev-main.zip
 
 - firstname.lastname@manchester.ac.uk (Firstname: Lifeng; Lastname: Han) (Firstname: Yuping; Lastname: Wu)
 
+| Read More about Our Work |
+|---|
+
 [Yuping Wu](https://scholar.google.com/citations?user=vZV_HuEAAAAJ&hl=en)
 [Lifeng Han](https://scholar.google.com/citations?user=_vf3E2QAAAAJ&hl=en)
 [Goran Nenadic](https://research.manchester.ac.uk/en/persons/gnenadic)
