@@ -82,6 +82,7 @@ https://github.com/poethan/TransformerCRF/blob/main/TransformerCRF_dev-main.zip
 |---|
 
 - We thank Viktor Schlegel for helping on debugging and Hao Li for discussion during the development stage. We thank Alfredo Madrid Garcia on the co-work regarding clinical annotation and computational model guidlines. We are grateful to *Manchester Open Research Fund* (OR) for supporting this on-going open source project.
+- [NeuroNER-project](https://github.com/Franck-Dernoncourt/NeuroNER)
 
 | Contact, welcome to reach out |
 |---|
